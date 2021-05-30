@@ -10,7 +10,7 @@ mvn -Prelease clean package
 ```
 ### Running
 ```sh
-java -jar target/atos-1.0-SNAPSHOT.jar
+java -jar target/lab5Java-1.0-SNAPSHOT.jar
 ```
 
 ### Author
